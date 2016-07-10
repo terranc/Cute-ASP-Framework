@@ -14,4 +14,7 @@ echo Tpub.Md5.Encode("admin")
 ## 帮助文档
 http://terran.cc/cuteaspframework/help/
 
+## DW扩展
+请前往原项目地址下载：https://code.google.com/archive/p/cuteaspframework/downloads
+
 > 若发现任何Bug或有意一起完善它欢迎加入
