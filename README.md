@@ -12,7 +12,7 @@ echo Tpub.Md5.Encode("admin")
 ```
 
 ## 帮助文档
-http://terran.cc/cuteaspframework/help/
+[http://terran.cc/cuteaspframework/help/](http://terranc.github.io/cuteaspframework/help/)
 
 ## DW扩展
 请前往原项目地址下载：https://code.google.com/archive/p/cuteaspframework/downloads
